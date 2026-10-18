@@ -1,0 +1,8 @@
+interface:
+  display_name: "原图不动·彩平生成"
+  short_description: "严格保留原始平面结构与标注，生成十五种完整彩平表现"
+  brand_color: "#796B5B"
+  default_prompt: "Use $cai-preserve-plan-color-render to turn my floor plan into a color plan without changing its layout."
+
+policy:
+  allow_implicit_invocation: true
